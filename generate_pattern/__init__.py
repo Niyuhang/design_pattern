@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # class Man():
 #     def eat(self):
 #         print("hello")
@@ -33,5 +34,3 @@
 
 #
 
-with open("a.txt", "w", encoding="gbk") as f:
-    f.write("你好")
