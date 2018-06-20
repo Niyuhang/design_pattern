@@ -3,7 +3,9 @@
 
 
 class Adaptee(object):
-    """需要进行修改的适配类"""
+    """
+    需要进行修改的适配类
+    """
     def special_request(self):
         print("特殊的请求")
 
