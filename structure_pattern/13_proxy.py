@@ -37,5 +37,6 @@ class SubProxy(AbstractSubject):
         sub.walk()
         self._after_walk()
 
+
 a = SubProxy()
 a.walk()
